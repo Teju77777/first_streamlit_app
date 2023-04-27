@@ -74,7 +74,7 @@ streamlit.text("Hello from Snowflake:")
 streamlit.text(my_data_row)
 
 
-streamlit.header("The fruit load list contains:")
+streamlit.header("view our fruits list - add your favourites")
 
 #snowflake-related functions
 def get_fruit_load_list():
